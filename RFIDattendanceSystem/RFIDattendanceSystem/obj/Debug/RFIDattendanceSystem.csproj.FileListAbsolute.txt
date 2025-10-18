@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\bin\Debug\RFIDattendanceSystem.exe.config
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\bin\Debug\RFIDattendanceSystem.exe
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\bin\Debug\RFIDattendanceSystem.pdb
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.dashboard.AddUser.resources
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.Form1.resources
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.Properties.Resources.resources
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.exe
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.pdb
+C:\Users\USER\source\repos\Diocampo\RFIDattendanceSystem\RFIDattendanceSystem\obj\Debug\RFIDattendanceSystem.exe.config
